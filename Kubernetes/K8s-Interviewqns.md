@@ -25,3 +25,7 @@
 9. What is a PersistentVolume (PV) and PersistentVolumeClaim (PVC)?
 
 10. What is a kubelet, and how does it function?
+
+
+
+###
